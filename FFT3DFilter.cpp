@@ -28,7 +28,7 @@
  * http://www.mee.tcd.ie/~ack/papers/a4ackphd.ps.gz
  *
  *****************************************************************************/
-
+#include <stdexcept>
 #include <cstring>
 #include <algorithm>
 #include <cmath>
