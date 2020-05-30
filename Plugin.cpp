@@ -19,7 +19,7 @@
  *****************************************************************************/
 
 #include <string>
-
+#include <stdexcept>
 #include <VapourSynth.h>
 #include <VSHelper.h>
 #include "FFT3DFilter.h"
